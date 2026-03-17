@@ -1,0 +1,18 @@
+# Data volumes
+es-data/
+grafana-data/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Go
+app/server
